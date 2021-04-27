@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tab Example</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="suggested">Suggested</string>
+    <string name="business">Business</string>
+    <string name="tech">#Tech</string>
+    <string name="general">#General</string>
+    <string name="entertainment">#Entertainment</string>
+</resources>
